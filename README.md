@@ -96,15 +96,15 @@
 
 GET
 
-![](GET1.png)
+![](GET1.PNG)
 
 POST
 
-![](POST.png)
+![](POST.PNG)
 
 GET
 
-![](GET2.png)
+![](GET2.PNG)
 
 Se obsverva que se actualizaron los datos, mostrando los datos enviados en el POST.
 
