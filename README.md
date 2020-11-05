@@ -96,17 +96,15 @@
 
 GET
 
-![image-20201025180230250](C:\Users\Luciano\AppData\Roaming\Typora\typora-user-images\image-20201025180230250.png)
+![](GET1.PNG)
 
 POST
 
-![image-20201025180459449](C:\Users\Luciano\AppData\Roaming\Typora\typora-user-images\image-20201025180459449.png)
-
-
+![](POST.PNG)
 
 GET
 
-![image-20201025180524904](C:\Users\Luciano\AppData\Roaming\Typora\typora-user-images\image-20201025180524904.png)
+![](GET2.PNG)
 
 Se obsverva que se actualizaron los datos, mostrando los datos enviados en el POST.
 
